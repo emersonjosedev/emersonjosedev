@@ -1,5 +1,5 @@
-### Olá, Seja bem-Vindo(a) 🐱‍👤
-Here are some ideas to get you started:
+## Olá, Seja bem-Vindo(a) 🐱‍👤
+
 - 🔭Atualmente a procura de trabalho/estagio
 - 🌱 SQL/Python
 
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
  <img align="center" alt="emerson-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
+  ##
   
 </div>
 <a href="https://www.linkedin.com/in/emerson-jos%C3%A9-2b5374234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
