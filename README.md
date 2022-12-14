@@ -1,4 +1,4 @@
-### Olá sou emerson 🐱‍👤
+### Olá, Seja bem-Vindo(a) 🐱‍👤
 Here are some ideas to get you started:
 - 🔭Atualmente a procura de trabalho/estagio
 - 🌱 SQL/Python
