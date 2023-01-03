@@ -4,7 +4,7 @@
 - 🌱 SQL/Python
 
 
-### :rocket: GitHub Stats :
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emersonjosedev&theme=vision-friendly-dark&hide_border=false)
 ![Stats](https://github-readme-stats.vercel.app/api?username=emersonjosedev&layout=compact&theme=vision-friendly-dark)
