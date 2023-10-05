@@ -1,7 +1,7 @@
 ## Olá, Seja bem-Vindo(a) 🐱‍👤
 
-- 🔭Atualmente a procura de trabalho/estagio
-- 🌱 SQL/Python
+
+- 🌱 SQL/Python/HTML,CSS,JS
 
 
 
